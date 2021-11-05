@@ -1,7 +1,7 @@
 // Write a program that displays:
-//     Welcome to Java
-//     Welcome to Computer Science
-//     Programming is fun
+// Welcome to Java
+// Welcome to Computer Science
+// Programming is fun
 
 public class displayThreeMessages {
   public static void main(String[] args) {
