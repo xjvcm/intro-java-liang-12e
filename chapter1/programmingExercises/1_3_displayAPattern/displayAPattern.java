@@ -1,3 +1,7 @@
+/**
+ * (Display a pattern) Write a program that displays the following pattern:
+ */
+
 public class displayAPattern {
     public static void main(String[] args) {
         System.out.println("     J    A     V     V     A");

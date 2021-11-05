@@ -1,3 +1,7 @@
+/**
+ * (Print a table) Write a program that displays the following table:
+ */
+
 public class PrintATable {
   public static void main(String[] args) {
     System.out.println("a       a^2     a^3");
