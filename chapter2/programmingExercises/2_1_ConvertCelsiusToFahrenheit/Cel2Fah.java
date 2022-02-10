@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * Cel2Fah
  * 
@@ -8,6 +6,8 @@ import java.util.Scanner;
  * 
  * fahrenheit = (9 / 5) * celsius + 32
  */
+import java.util.Scanner;
+
 public class Cel2Fah {
 
     public static void main(String[] args) {
