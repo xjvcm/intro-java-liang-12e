@@ -2,9 +2,6 @@
  * Write a program that reads in the radius and length of a cylinder and computes the area and
  * volume using the following formulas: area = radius * radius * π volume = area * length
  */
-/**
- * VolCylinder
- */
 import java.util.Scanner;
 
 public class VolCylinder {
@@ -32,13 +29,11 @@ public class VolCylinder {
 
     static double getArea(double radius) {
 
-        double area = Math.pow(radius, 2) * Math.PI;
-        return area;
+        return Math.pow(radius, 2) * Math.PI;
     }
 
     static double getVolume(double area, double length) {
 
-        double volume = area * length;
-        return volume;
+        return area * length;
     }
 }
